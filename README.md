@@ -1,4 +1,4 @@
 # Demo-Repository
 This is my first git repository
 <br>
-Author-Sahil Saiyed
+Author-Sahil Saiyed (Sal education)
